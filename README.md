@@ -19,6 +19,9 @@
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Debounce function com javascript](https:/allisonverdam.com.br/blog/debounce-function-com-javascript/)
+- [Strategy Design Pattern](https:/allisonverdam.com.br/blog/strategy-design-pattern/)
+- [Factory Design Pattern](https:/allisonverdam.com.br/blog/aplicando-factory-design-pattern-em-javascript/)
 <!-- BLOG-POST-LIST:END -->
 
 [listou]: https://play.google.com/store/apps/details?id=br.com.suricatostech.listou
