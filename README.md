@@ -2,7 +2,7 @@
 
 ## I'm a Husband, Father, Developer, and Gamer!
 - 🔭 I'm currently working on some projects, the last one I finished was [Listou][listou]!
-- 🌱 I love learning new things 🤣
+- 🌱 I love learning new things
 - 🎮 Curious fact: I love playing games and I dream of one day making my own successful game
 
 <br />
@@ -15,6 +15,7 @@
 [<img align="left" alt="allisonverdam | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="allisonverdam | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
+<br />
 <br />
 
 ### 📕 Latest Blog Posts
